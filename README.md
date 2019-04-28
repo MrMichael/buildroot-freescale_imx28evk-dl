@@ -1,0 +1,2 @@
+# buildroot-freescale_imx28evk-dl
+buildroot选择freescale_imx28evk_defconfig编译根文件系统所需要的dl文件包
